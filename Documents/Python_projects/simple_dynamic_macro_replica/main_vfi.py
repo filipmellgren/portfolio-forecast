@@ -4,8 +4,8 @@
 Created on Tue Nov 26 21:39:26 2019
 
 @author: filip
-!git add "file.py"
+!git add "main_vfi.py"
 !git commit -m "My commit"
-!git push origin master
+!git push origin master.
 """
 
